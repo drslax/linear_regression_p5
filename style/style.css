@@ -1,0 +1,49 @@
+body {
+  background-color: #068185;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  background-color: #C0C0C0;
+  color: white;
+}
+
+/* utiliy classes */
+.text-center {
+  text-align: center;
+}
+.py-1 {
+  padding: 1rem 0;
+}
+
+.frm {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.title {
+  padding: 5px;
+}
+
+.field-row {
+  width: 300px;
+  margin: 10px auto;
+}
+
+.container {
+  display: flex;
+  width: 50%;
+  margin: auto;
+}
+
+.app > div {
+  text-align: center;
+}
+
+#l_r {
+  margin: 0;
+}

@@ -1,0 +1,13 @@
+body {
+  background-color: #068185;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  background-color: #C0C0C0;
+  color: white;
+}
